@@ -1,0 +1,4 @@
+netgeardisc
+===========
+
+Discovers Netgear swtiches
